@@ -1,0 +1,1 @@
+// this is frontend.js file of learn2 project
